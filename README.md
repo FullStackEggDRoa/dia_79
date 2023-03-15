@@ -1,5 +1,5 @@
-# Dia_78
-Encuentro Día 78 de Herencias - Ejericio 1
+# Dia_79
+Encuentro Día 79 de Herencias - Ejericio 2
 <br>
 <br>
 Para su ejecución, es necesario incluir la librería que se detalla a continuación, en ella se encuentra todos las Entidades (Objetos), Servicios y 
