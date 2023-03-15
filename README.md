@@ -1,5 +1,5 @@
 # Dia_79
-Encuentro Día 79 de Herencias - Ejericio 2
+Encuentro Día 79 de Herencias - Ejercicio 2
 <br>
 <br>
 Para su ejecución, es necesario incluir la librería que se detalla a continuación, en ella se encuentra todos las Entidades (Objetos), Servicios y 
